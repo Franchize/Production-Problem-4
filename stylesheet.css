@@ -1,0 +1,56 @@
+/* Reset CSS see --> http://meyerweb.com/eric/tools/css/reset/ */
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* Reset CSS see --> http://meyerweb.com/eric/tools/css/reset/ */
+body{
+   background: url(images/planets.png);
+   color: white;
+   background-size: cover;
+}
+#wrapper{
+padding: 15em;
+}
+
+
+#tabletitle{
+   background-color: blue;
+}
+
+#Planets{
+   background-color: brown;
+}
+
+#diameter{
+   background-color: pink;
+}
+
+#mass{
+   background-color: green;
+}
+
+#meandensity
+{
+   background-color: orange;
+}
+#escapevel
+{
+   background-color: pink;
+}
+#avgdis
+{
+   background-color: green;
+}
+#rotation
+{
+   background-color: pink;
+}
+#revolution{
+   background-color: brown;
+}
